@@ -1,5 +1,10 @@
 # sql-challenge
-Module 9 Challenge
+
+## CHALLENGES
+The biggest challenge I experienced for this module's homework was establishing primary and foreign keys. However, once I got those established, and populated the tables in the correct order, the homework went by quickly. I did have to do some digging to remember how to call queries with the proper syntax. Overall, this challenge was fun. Using pgadmin and SQL were fun additions to the source material.
+
+### SOURCES
+https://stackoverflow.com/questions/8856384/sql-select-first-letter-of-a-word
 
 Background
 
