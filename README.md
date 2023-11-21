@@ -5,6 +5,7 @@ The biggest challenge I experienced for this module's homework was establishing 
 
 ### SOURCES
 https://stackoverflow.com/questions/8856384/sql-select-first-letter-of-a-word
+https://www.c-sharpcorner.com/blogs/sql-query-to-find-out-the-frequency-of-each-element-in-a-column1
 
 Background
 
